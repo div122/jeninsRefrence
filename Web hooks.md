@@ -39,6 +39,5 @@ Lets update code in git hub.
 ![image](https://user-images.githubusercontent.com/107674435/178131650-654be113-d19b-40c0-8619-af011efaa511.png)
 ![image](https://user-images.githubusercontent.com/107674435/178131661-91f39553-524e-43c7-8425-acaa2d6e6bf2.png)
 
-![image](https://user-images.githubusercontent.com/107674435/178132072-21719cd1-3482-4a03-a6d5-4360281af1f1.png)
 
 
