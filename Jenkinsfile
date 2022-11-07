@@ -1,3 +1,5 @@
+#Refrence syntax:
+	
 pipeline {
 agent any
     stages {
